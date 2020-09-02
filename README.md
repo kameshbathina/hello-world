@@ -1,2 +1,2 @@
 # hello-world
-Kamesh here, I like node.ja
+Kamesh here, I like node.js
